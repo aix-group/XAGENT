@@ -28,3 +28,13 @@ BibTex citation:
   title     = {XAgent: A Conversational XAI Agent Harnessing the Power of Large Language Models},
   year      = {2024},
 }
+```
+Original paper:
+```
+@InProceedings{Nguyen2023_wcxai_xagent,
+  author    = {Nguyen, Van Bach and Schl{\"o}tterer, J{\"o}rg and Seifert, Christin},
+  booktitle = {Proc. World Conference Explainable Artificial Intelligence (XAI)},
+  title     = {From Black Boxes to Conversations: Incorporating XAI in a Conversational Agent},
+  year      = {2023},
+}
+```
