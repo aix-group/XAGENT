@@ -19,7 +19,8 @@ Run Streamlit
 cd XAgent
 streamlit run app.py
 ```
-- Note: LLAMA2 7B requires at least GPU-40GB to run 
+- Note: LLAMA2 7B requires at least GPU-40GB to run
+
 BibTex citation:
 ```
 @InProceedings{Nguyen2024_wcxai_xagent,
